@@ -1,0 +1,47 @@
+.education {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 9%;
+    position: relative;
+    z-index: 1;
+}
+
+.education-text {
+    text-align: center;
+    max-width: 800px;
+}
+
+.education-text p {
+    font-size: 2.4rem;
+    color: var(--cyber-green);
+    margin-bottom: 2rem;
+    text-shadow: 0 0 10px var(--cyber-green);
+    line-height: 1.6;
+    transition: all 0.3s ease;
+    position: relative;
+    opacity: 0;
+}
+
+.education-text p.typing-text {
+    position: relative;
+}
+
+
+.education-text p:hover {
+    transform: scale(1.1);
+    text-shadow: 0 0 20px var(--cyber-green);
+}
+
+@media (max-width: 768px) {
+    .education-text p {
+        font-size: 2rem;
+    }
+}
+
+@media (max-width: 576px) {
+    .education-text p {
+        font-size: 1.8rem;
+    }
+}
