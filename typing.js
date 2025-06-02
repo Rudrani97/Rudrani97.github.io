@@ -1,4 +1,4 @@
-const textArray = ["Security Researcher", "Web Developer", "Game Developer", "Script Writer"];
+const textArray = ["Security Researcher", "Web Developer", "Game Developer", "Script Writer", "Security Researcher"];
 const typingDelay = 100;
 const erasingDelay = 50;
 const newTextDelay = 2000;

@@ -15,7 +15,7 @@ const experienceData = {
         {
             "title": "Member, Developer & Mentor",
             "company": "H2I Team",
-            "date": "8 Mar 2025 - Present",
+            "date": "8 Mar 2025 - 4 May 2025",
             "description": "Developing applications and mentoring the leader",
             "responsibilities": [
                 "Developed H2I Team website.",
@@ -26,24 +26,14 @@ const experienceData = {
         },
         {
             "title": "Founder & Owner",
-            "company": "Anadrishtam",
-            "date": "2025 - Present",
+            "company": "Rudrani",
+            "date": "TBA - Present",
             "description": "Developing useful applications, websites and games.",
             "responsibilities": [
-                "Developed a game named 'Treasure Hunters'",
-                "Turned it into a web based game",
-                "Built a Youtube Video Downloader"
-            ]
-        },
-        {
-            "title": "Leader & Investigator",
-            "company": "Rudrani",
-            "date": "2024 - Present",
-            "description": "Investigation",
-            "responsibilities": [
-                "Investigated multiple cybercrime cases unofficially.",
-                "Not allowed to disclose any further information.",
-                "Silence speaks better than words."
+                "Developing a game named 'Treasure Hunters'",
+                "Will offer Automation Services to businesses and individuals.",
+                "Developing a website for Rudrani.",
+                "Will work on a tool named 'Anadrishtam' to hide data in a way which can't be found."
             ]
         }
     ]
