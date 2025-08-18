@@ -1,4 +1,4 @@
-const textArray = ["Security Researcher", "Web Developer", "Game Developer", "Script Writer", "Security Researcher"];
+const textArray = ["Software Developer", "Web Developer", "Game Developer", "Script Writer", "Malware Analyst"];
 const typingDelay = 100;
 const erasingDelay = 50;
 const newTextDelay = 2000;
@@ -39,4 +39,5 @@ function type() {
 // Start the typing animation when the page loads
 document.addEventListener('DOMContentLoaded', () => {
     type();
+
 });
