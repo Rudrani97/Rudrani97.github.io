@@ -13,26 +13,14 @@ const experienceData = {
             ]
         },
         {
-            "title": "Member, Developer & Mentor",
-            "company": "H2I Team",
-            "date": "8 Mar 2025 - 4 May 2025",
-            "description": "Developing applications and mentoring the leader",
-            "responsibilities": [
-                "Developed H2I Team website.",
-                "Built a portfolio template for every member.",
-                "Discovered a flaw of telegram which can be exploited to get the phone number of any user.",
-                "Helping and mentoring the leader and members."
-            ]
-        },
-        {
             "title": "Founder & Owner",
-            "company": "Rudrani",
+            "company": "Hridaym",
             "date": "TBA - Present",
-            "description": "Developing useful applications, websites and games.",
+            "description": "Developing useful applications and custom softwares for clients.",
             "responsibilities": [
+                "Developed a website for this brand.",
                 "Developing a game named 'Treasure Hunters'",
-                "Will offer Automation Services to businesses and individuals.",
-                "Developing a website for Rudrani.",
+                "Planning to develop websites for businesses and brands.",
                 "Will work on a tool named 'Anadrishtam' to hide data in a way which can't be found."
             ]
         }
@@ -73,3 +61,4 @@ document.addEventListener('DOMContentLoaded', () => {
         experienceContainer.appendChild(experienceItem);
     });
 });
+
