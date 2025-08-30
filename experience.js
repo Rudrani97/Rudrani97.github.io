@@ -14,14 +14,11 @@ const experienceData = {
         },
         {
             "title": "Founder & Owner",
-            "company": "Hridaym",
-            "date": "TBA - Present",
-            "description": "Developing useful applications and custom softwares for clients.",
+            "company": "To be announced",
+            "date": "30 Sept 2025 - Present",
+            "description": "To be announced",
             "responsibilities": [
-                "Developed a website for this brand.",
-                "Developing a game named 'Treasure Hunters'",
-                "Planning to develop websites for businesses and brands.",
-                "Will work on a tool named 'Anadrishtam' to hide data in a way which can't be found."
+                "To be announced"
             ]
         }
     ]
@@ -61,4 +58,5 @@ document.addEventListener('DOMContentLoaded', () => {
         experienceContainer.appendChild(experienceItem);
     });
 });
+
 
