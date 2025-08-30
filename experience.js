@@ -15,7 +15,7 @@ const experienceData = {
         {
             "title": "Founder & Owner",
             "company": "To be announced",
-            "date": "30 Sept 2025 - Present",
+            "date": "Soon",
             "description": "To be announced",
             "responsibilities": [
                 "To be announced"
@@ -58,5 +58,6 @@ document.addEventListener('DOMContentLoaded', () => {
         experienceContainer.appendChild(experienceItem);
     });
 });
+
 
 
