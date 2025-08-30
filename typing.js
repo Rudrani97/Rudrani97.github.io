@@ -1,4 +1,4 @@
-const textArray = ["Software Developer", "Web Developer", "Game Developer", "Script Writer", "Malware Analyst"];
+const textArray = ["Software Engineer", "Web Developer", "Game Developer", "Malware Analyst"];
 const typingDelay = 100;
 const erasingDelay = 50;
 const newTextDelay = 2000;
@@ -41,3 +41,4 @@ document.addEventListener('DOMContentLoaded', () => {
     type();
 
 });
+
